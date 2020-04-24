@@ -27,4 +27,3 @@ types:
                     application/json:
                         type: User
                         example: { "id": 1, "name": "John  fJohn Hifbvc   Hello hi mmnhey no h hey  " }
-f
