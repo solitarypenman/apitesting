@@ -26,4 +26,4 @@ types:
                 body:
                     application/json:
                         type: User
-                        example: { "id": 1, "name": "Johcnc  fJcomccmfchcn Hicfbvc  n Hello hi mmnhey no h hey  " }c
+                        example: { "id": 1, "name": "Johcnc  fJcomccmfhcn Hicfbvc  n Hello hi mmnhey no h hey  " }c
