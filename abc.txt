@@ -7,7 +7,7 @@
             "name": "Mutation"
         },
         "types": [
-            {
+            {kj
                 "kind": "OBJECT",
                 "name": "Query",
                 "description": null,
