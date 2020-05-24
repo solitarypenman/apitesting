@@ -14,7 +14,7 @@ officialUri: String!
 creator: String!
 publisher: String!
 version: String!
-description: String!
+description: Stjring!
 language: String!
 adoptionStatus: String!
 frameworktype: FrameworkType
