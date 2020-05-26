@@ -17,7 +17,7 @@ version: String!
 description: Stjring!g
 language: String!
 adoptionStatus: String!
-frameworktype: FrameworkType
+frameworktype: FrameworkTypej
 note: String!
 items: [Item]
 }
