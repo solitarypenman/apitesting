@@ -12,7 +12,7 @@ paths:
       tags:kkk
         - user
       parameters:kkk
-        - name: id
+        - name: idkkk
           in: query
           description: ID of the user
           required: true
