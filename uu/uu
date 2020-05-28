@@ -16,7 +16,7 @@ paths:
           in: query
           description: ID of the user
           required: true
-          schema:
+          schema:jjj
             type: integer
             format: int32
       responses:
