@@ -8,7 +8,7 @@ paths:
   /user:
     get:
       summary: 'Sample endpoint: Returns detailskkk about a partjjicular user'
-      operationId: listUserjjj
+      operationId: listUserjjjffff
       tags:kkkhhh
         - userdd
       parameters:kkk
