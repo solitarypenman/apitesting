@@ -10,7 +10,7 @@ paths:
       summary: 'Sample endpoint: Returns detailskkk about a partjjicular user'
       operationId: listUserjjj
       tags:kkk
-        - user
+        - userdd
       parameters:kkk
         - name: idkkk
           in: query
