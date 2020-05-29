@@ -7,16 +7,16 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns details about a particular user'
-      operationId: listUser
-      tags:
-        - user
-      parameters:
-        - name: id
+      summary: 'Sample endpoint: Returns detailskkk about a partjjicular user'
+      operationId: listUserjjj
+      tags:kkkhhh
+        - userdd
+      parameters:kkk
+        - name: idkkk
           in: query
           description: ID of the user
           required: true
-          schema:
+          schema:jjj
             type: integer
             format: int32
       responses:
