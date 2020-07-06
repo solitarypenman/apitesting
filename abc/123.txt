@@ -1,27 +1,27 @@
 openapi: 3.0.0
 info:
-  version: 1.0
-  title: new bug test api
+  version: 1.1.1
+  title: New test api
 servers:
-  - url: 'http://localhost:3000'
+  - url: 'http://localhost:3000'a
 paths:
   /user:
-    get:
-      summary: 'Sample endpoint: Returns detailskkk about a partjjicular user'
-      operationId: listUserjjj
-      tags:kkk
-        - userdd
-      parameters:kkk
-        - name: idkkk
+    get:g;dflk;gdkd;g
+      summary: 'Sample endpoint: Returns details about a particular user'
+      operationId: listUser
+      tags:
+        - user
+      parameters:
+        - name: id
           in: query
           description: ID of the user
           required: true
-          schema:jjj
+          schema:
             type: integer
             format: int32
       responses:
         '200':
-          description: 'Sample response: Detailsdfgd about a user by ID'
+          description: 'Sample response: Details about a user by ID'
           headers:
             x-next:
               description: A link to the next page of responses
@@ -62,4 +62,4 @@ components:
           type: integer
           format: int32
         message:
-          type: string
+          type: stringv
