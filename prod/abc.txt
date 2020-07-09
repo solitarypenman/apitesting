@@ -14,7 +14,7 @@
                 "fields": [
                     {
                         "name": "user",
-                        "description": null,fs
+                        "description": null,
                         "args": [fds
                             {
                                 "name": "id",
