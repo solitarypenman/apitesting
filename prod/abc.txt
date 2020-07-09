@@ -2,9 +2,9 @@
     "__schema": {
         "queryType": {
             "name": "Query"
-        },sdf
+        },sdfsdf
         "mutationType": {
-            "name": "Mutation"
+            "name": "Mutation"sdf
         },
         "types": [
             {
