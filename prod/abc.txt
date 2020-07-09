@@ -2,7 +2,7 @@
     "__schema": {
         "queryType": {
             "name": "Query"
-        },
+        },sdf
         "mutationType": {
             "name": "Mutation"
         },
@@ -14,7 +14,7 @@
                 "fields": [
                     {
                         "name": "user",
-                        "description": null,
+                        "description": null,fs
                         "args": [fds
                             {
                                 "name": "id",
