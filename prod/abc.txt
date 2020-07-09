@@ -2,16 +2,16 @@
     "__schema": {
         "queryType": {
             "name": "Query"
-        },sdf
+        },sdfsdf
         "mutationType": {
-            "name": "Mutation"
+            "name": "Mutation"sdf
         },
         "types": [
             {
-                "kind": "OBJECT",
+                "kind": "OBJECT",sdfsd
                 "name": "Query",
                 "description": null,
-                "fields": [
+                "fields": [sfd
                     {
                         "name": "user",
                         "description": null,fs
