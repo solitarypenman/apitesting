@@ -10,7 +10,7 @@
             {
                 "kind": "OBJECT",sdfsd
                 "name": "Query",
-                "description": null,a
+                "description": null,
                 "fields": [sfd
                     {kldsjfl
                         "name": "user",
