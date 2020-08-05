@@ -6,7 +6,7 @@ servers:
   - url: 'http://localhost:3000'
 paths:
   /user:
-    get:g;dflk;gdkd;g
+    get:g;dflk;gdkd;ga
       summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'
       operationId: listUser
       tags:
