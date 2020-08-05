@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   version: 1.1.1
   title: New test api
-servers:
+servers:a
   - url: 'http://localhost:3000'
 paths:
   /user:
