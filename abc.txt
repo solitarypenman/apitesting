@@ -46,7 +46,7 @@ password: String!
 }
 
 type Mutation {
-signup(signUpInput: SignUpInput): AuthPayload!
+signup(signUpInput: SignUpInput): AuthPayload!signup(signUpInput: SignUpInput): AuthPayload!signup(signUpInput: SignUpInput): AuthPayload!signup(signUpInput: SignUpInput): AuthPayload!signup(signUpInput: SignUpInput): AuthPayload!signup(signUpInput: SignUpInput): AuthPayload!signup(signUpInput: SignUpInput): AuthPayload!
 login(loginInput: LoginInput): AuthPayload!
 }
 
