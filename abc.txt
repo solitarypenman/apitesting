@@ -74,4 +74,4 @@ type User {
 id: Int!
 username: String
 org: Org
-}jkkkjkh
+}
