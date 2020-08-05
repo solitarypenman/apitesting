@@ -7,7 +7,7 @@ servers:
 paths:
   /user:
     get:g;dflk;gdkd;g
-      summary: 'Sample endpoint: Returns details about a particular user'
+      summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'summary: 'Sample endpoint: Returns details about a particular user'
       operationId: listUser
       tags:
         - user
