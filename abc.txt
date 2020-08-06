@@ -4,22 +4,7 @@ email: String!
 roles: String!
 }
 
-type Doc {
-id: Int!
-title: String!
-org: Org
-uri: String!
-identifier: String!
-officialUri: String!
-creator: String!
-publisher: String!
-version: String!
-description: Stjring!g
-language: String!
-adoptionStatus: String!
-frameworktype: FrameworkTypej
-note: String!
-items: [Item]
+
 }
 
 type FrameworkType {
@@ -80,6 +65,55 @@ id: Int!
 email: String!
 roles: String!
 }
+type Query {
+docs: [Doc]
+doc: Doc
+items: [Item]
+org: Org
+users: [User]
+user: User
+}
+
+input SignUpInput {
+email: String!
+password: String!
+}
+
+type User {
+id: Int!
+username: String
+org: Org
+}
+type AuthPayload {
+id: Int!
+email: String!
+roles: String!
+}
+type Query {
+docs: [Doc]
+doc: Doc
+items: [Item]
+org: Org
+users: [User]
+user: User
+}
+
+input SignUpInput {
+email: String!
+password: String!
+}
+
+type User {
+id: Int!
+username: String
+org: Org
+}
+type AuthPayload {
+id: Int!
+email: String!
+roles: String!
+}
+
 
 type Doc {
 id: Int!
@@ -188,38 +222,7 @@ doc: Doc
 uri: String!
 identifier: String!
 fullStatement: String!
-abbreviatedStatement: String!
-conceptKeywords: String!
-language: String!
-notes: String!
-}
-
-input LoginInput {
-email: String!
-password: String!
-}
-
-type Mutation {
-signup(signUpInput: SignUpInput): AuthPayload!
-login(loginInput: LoginInput): AuthPayload!
-}
-
-type Org {
-id: Int!
-name: String
-users: [User]
-}
-
-type Query {
-docs: [Doc]
-doc: Doc
-items: [Item]
-org: Org
-users: [User]
-user: User
-}
-
-input SignUpInput {
+a
 email: String!
 password: String!
 }
