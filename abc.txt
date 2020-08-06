@@ -1,4 +1,4 @@
-type AuthPay {
+type AuthPayload {
 id: Int!
 email: String!
 roles: String!
