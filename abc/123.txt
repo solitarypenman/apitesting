@@ -3,7 +3,7 @@ info:
   version: 1.1.1
   title: New test api
 servers:
-  - url: 'http://localhost:3000'a
+  - url: 'http://localhost:3000'
 paths:
   /user:
     get:g;dflk;gdkd;g
@@ -62,4 +62,4 @@ components:
           type: integer
           format: int32
         message:
-          type: stringv
+          type: string
