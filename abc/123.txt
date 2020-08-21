@@ -14,7 +14,7 @@ paths:
       parameters:
         - name: ida
           in: query
-          description: ID of the userj
+          description: ID of the user
           required: true
           schema:
             type: integer
