@@ -5,16 +5,16 @@ info:
 servers:a
   - url: 'http://localhost:3000'
 paths:
-  /user:s
+  /user:
     get:g;dflk;gdkd;gas
-      summary: 'Sample endpoint: Returns details about a particular uSample endpoint: Returns details about a particular uparticular uparticular u
+      summary: 'Sample endpoint: Returns details about a particular uSample endpoint: Returns details about a particular u
       operationId: listUser
       tags:
         - user
       parameters:
         - name: ida
           in: query
-          description: ID of the userj
+          description: ID of the user
           required: true
           schema:
             type: integer
