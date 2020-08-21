@@ -5,7 +5,7 @@ info:
 servers:a
   - url: 'http://localhost:3000'
 paths:
-  /user:s
+  /user:
     get:g;dflk;gdkd;gas
       summary: 'Sample endpoint: Returns details about a particular uSample endpoint: Returns details about a particular uparticular uparticular u
       operationId: listUser
