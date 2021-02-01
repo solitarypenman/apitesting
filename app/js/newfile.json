@@ -1,12 +1,12 @@
 openapi: 3.0.0
 info:
   version: '1.0'
-  title: New Test API
+  title: New Test APIsflksfjsldfsdf
 servers:
-  - url: 'http://localhost:3000'
-paths:
-  /user:
-    get:
+  - url: 'http://localhost:3000'sdlfjksdlfjsldfsjdlfksdf
+paths:sfkls
+  /user:kjhkjhkhkjsfdlksjdflsjfdlsjdhkhkhkhkhkhkjhjk
+    get:dfgfdfd
       summary: 'Sample endpoint: Returns details about a particular user'
       operationId: listUser
       tags:
