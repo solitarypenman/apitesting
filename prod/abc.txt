@@ -3,7 +3,7 @@
         "queryType": {
             "name": "Query"
         },
-        "mutationType": {sdfslkfddsdf
+        "mutationType": {sdfslkfddsdflksjdlfkjsdfsdf
             "name": "Mutation"
         },
         "types": [
