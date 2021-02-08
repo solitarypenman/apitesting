@@ -1,19 +1,19 @@
 openapi: 3.0.0
-info:
-  version: '1.0'
-  title: Test API
+info:lkj
+  version: '1.0'dfgsd
+  title: Test APIsdlfjksldfjsldfjsldkfjsldfsderertf
 servers:
-  - url: 'http://localhost:3000'
-paths:
-  /user:
-    get:
-      summary: 'Sample endpoint: Returns details about a particular user'
-      operationId: listUser
-      tags:
-        - user
+  - url: 'http://localhost:3000'lfkdjslfskjdlkflksdjflksdjlfksdf
+paths:sfsfsdfsfsdfsfdl;klksdjflksdf
+  /user:lkjlklkjsfdljsdflksfdsdflkjsdlfkjsldfkj
+    get:sdflksjdfsdfsdflkjsdf
+      summary: 'Sample endpoint: Returns details about a particular usersfdfs'
+      operationId: listUserfgdfgdf
+      tags:sdfdsfsffsdljksfddsf
+        - usersdfsdfsdfsdfsdf
       parameters:
         - name: id
-          in: query
+          in: querydsfsdfsdfsdfsdfsdf
           description: ID of the user
           required: true
           schema:
