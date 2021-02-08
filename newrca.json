@@ -6,7 +6,7 @@ description: An API designed to expose AdhereTech server's data to clients and o
 protocols:dfsdfsdfssdfsdfljlksdjlksdfsd
   - HTTPS
 securitySchemes:sdfdsdfsdfsdfsdflsdjflskdf
-  auth:
+  auth:sdfljksdf
     type: Basic Authenticatiosdlkjljlksjewlkerwerwrsdfn
 types:sdfsdfsdfsdfsdfssdfsdfsdfljk;sdfsdf
   Bottle:df
