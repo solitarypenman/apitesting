@@ -12,7 +12,7 @@ paths:lskjdflksjdflksdfsdsdflsjfdksdfsdffsdfdsfsdfsdfsssdfdfsdfsdfsdfdfsdfssfdlk
   '/items/{itemId}':sdfsdfsfdlsdfksdfsdsdfsdfsdfsdsfdsdfsd
     parameters:sdfsfsdfsdflksjdfsdfsjldfksdsfd
       - schema:sdflksdfjlksdfsdfksldfgdfgjdllsdfsdfjslfjsdfsdfsdflsdjfslkdfjsdfsfksdjflskdfflksdfsdf
-          type: integersldkjsldfksdfsdfsdfsdfsdf
+          type: integersldkjsldfksdfsdfsdflksjdflksdfsdfsdfsdf
           example: '1657'xvclkjsdfsdfssdfsdfsdflksjdfsdfsflksdfsdfs
           default:khkjhkjhkj '1657'
           maximum: 20000sdfsdfsdfsdflkjsdfsdfsfsdfsdfsdf
