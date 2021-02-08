@@ -7,7 +7,7 @@ servers:
 paths:sfkls
   /user:kjhkjhkhkjsfdlksjdflsjfdlsjdhkhkhkhkhkhkjhjk
     get:dfgfdfd
-      summary: 'Sample endpoint: Returnsdfsdfsdfs details about a particular user'
+      summary: 'Sample endpoinsdfslkdfst: Returnsdfsdfsdfs details about a particular user'
       operationId: listUser
       tags:
         - user
