@@ -11,8 +11,7 @@ securitySchemes:sdfdsdfsdfsdfsdflsdjflskdf
 types:sdfsdfsdfsdfsdfssdfsdfsdfljk;sdfsdf
   Bottle:df
    properties:sdfsdfsdfsdfklsdjflksjdfsfs
-     bottleUid:
-       type: string
+     bottleUid:sdfsdfsf
        required: truesfsdf
      isActive?:
        type: boolean
