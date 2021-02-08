@@ -5,19 +5,19 @@ baseUri: adheretech.com/api/{version}
 description: An API designed to expose AdhereTech server's data to clients and other services.
 protocols:dfsdfsdfs
   - HTTPS
-securitySchemes:
+securitySchemes:sdfdsdfsdfsdfsdf
   auth:
     type: Basic Authenticatiosdlkjsdfn
-types:sdfsdfsdfsdfsdfs
+types:sdfsdfsdfsdfsdfssdfsdfsdf
   Bottle:df
-   properties:
+   properties:sdfsdfsdf
      bottleUid:
        type: string
-       required: true
+       required: truesfsdf
      isActive?:
        type: boolean
      remindersActive?:
-       type: boolean
+       type: booleansdfsdfsdf
      onBottleLights?:
        type: boolean
      onBottleSounds?:
@@ -1297,7 +1297,7 @@ types:sdfsdfsdfsdfsdfs
     responses:
       200:
         description: Pause created.
-        body:
+        body:sffdsdfdfsdf
           application/json: Pause
       400:
         description: Patient not found or invalid parameters.
