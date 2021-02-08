@@ -1,18 +1,18 @@
 {
     "__schema": {
-        "queryType": {
-            "name": "Query"
-        },
+        "queryType"sdfsdf: {sdfljisdfsdf
+            "name": "Query"sdflkjsdf
+        },sfdlksdjfsdf
         "mutationType": {sdfslkfddsdflksjdlfkjsdfsdf
-            "name": "Mutation"
-        },
-        "types": [
-            {
+            "name": "Mutation"sdfalsfdjkdsaf
+        },sldkjfsdlkfjslkdfsdf
+        "types": [;lksjdfsfsdf
+            {sdfsdf
                 "kind": "OBJECT",
-                "name": "Query",kjhkjh
+                "name": "Query",kjhkjhsdflsjdfsdf
                 "description": null,
-                "fields": [
-                    {
+                "fields": [sdfklsdfs
+                    {ljksdlkjfsd
                         "name": "user",
                         "description": null,
                         "args": [
