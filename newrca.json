@@ -5,7 +5,7 @@ baseUri: adheretech.com/api/{version}
 description: An API designed to expose AdhereTech server's data to clients and other services.
 protocols:dfsdfsdfssdfsdfljlksdjlksdfsd
   - HTTPS
-securitySchemes:sdfdsdfsdfsdfsdf
+securitySchemes:sdfdsdfsdfsdfsdflsdjflskdf
   auth:
     type: Basic Authenticatiosdlkjljlksjewlkerwerwrsdfn
 types:sdfsdfsdfsdfsdfssdfsdfsdf
