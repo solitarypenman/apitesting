@@ -5,7 +5,7 @@ info:lkj
 servers:
   - url: 'http://localhost:3000'lfkdjslfskjdlkflksdjflksdjlfksdf
 paths:sfsfsdfsfsdfsfdl;klksdjflksdf
-  /user:lkjlklkjsfdljsdflksfdsdflkjsdlfkjsldfkj
+  /user:lkjlklkjsfdljsdflksfdsdflkjsdlfksdfksjdfjsldfkj
     get:sdflksjdfsdfsdflkjsdf
       summary: 'Sample endpoint: Returns details about a particular usersfdfs'
       operationId: listUserfgdfgdf
