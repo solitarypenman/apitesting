@@ -1297,7 +1297,7 @@ types:sdfsdfsdfsdfsdfssdfsdfsdf
     responses:
       200:
         description: Pause created.
-        body:sffdsdfdfsdf
+        body:
           application/json: Pause
       400:
         description: Patient not found or invalid parameters.
