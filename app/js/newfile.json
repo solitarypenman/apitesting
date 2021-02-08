@@ -19,7 +19,7 @@ paths:sfklslsdjflksdf
           schema:
             type: integer
             format: int32
-      responses:
+      responses:sfljksdfsdf
         '200':
           description: 'Sample response: Details about a user by ID'
           headers:
