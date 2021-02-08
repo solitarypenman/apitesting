@@ -1283,7 +1283,7 @@ types:sdfsdfsdfsdfsdfssdfsdfsdf
         description: Current front-end items per page value; required for pagination.
         type: integer
         required: true
-        displayName: itemsPerPage
+        displayName: itemsPersdfsdfsdfPage
       sort:
         description: Attribute(s) and order(s) to sort by in the following example format - "uid desc, timeoccurred asc" etc. Attribute names are case-sensitive. Omit to sort by 'startdate' descending as default.
         type: string
@@ -1297,7 +1297,7 @@ types:sdfsdfsdfsdfsdfssdfsdfsdf
     responses:
       200:
         description: Pause created.
-        body:
+        body:sffdsdfdfsdf
           application/json: Pause
       400:
         description: Patient not found or invalid parameters.
