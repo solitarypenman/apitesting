@@ -1,24 +1,24 @@
-openapi: 3.0.0
-info:
-  title: SimpleKart E-commerce API
-  version: 1.0.0
-  contact:
-    name: Postman Team
-    email: simplekart@postman.com
-  description: API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postman
-servers:
-  - url: 'https://simplekart.postman.com'
-paths:
-  '/items/{itemId}':
-    parameters:
-      - schema:
-          type: integer
-          example: '1657'
-          default: '1657'
-          maximum: 20000
-          minimum: 0
-          exclusiveMinimum: false
-        name: itemId
+dfgdfgopenapi: 3.0.0fdgdfg
+info:fdfd
+  title: SimpleKart E-commerce APIgdfgfsdfsdf
+  version: 1.0.0dfgsdfsfsdsfsdf
+  contact:iolkjsdfsdfsdsdfsdfsdfsdfsdfsdfsdfsdfdfgdfg
+    name: Postman Teamdfgdfljdsfljsdslfkjsdlflfsdfkjsldfjlksdf
+    email: simplekart@postman.cosdfljkssdfklsdfsdfdsflksdfsflsjkdfmsdfsdlfkjsdfsdfsdf
+  description: API for an isflksjdflksdfmaginary E-Commerce store to demsdfklsjdflskjdfsdfsfdonstrate API Builder capabilities in Postman
+servers:fddfdfdfk,dsjflksdfsdfwerwerwerwerdfsgsfgsdsdfsgsfdg
+  - url: 'https://simplekart.postman.com'sdksfdsdfsdgdfgdfgdfgfgdfgdfgddflfsdfksjldfsdfsdfsdfsdf
+paths:lskjdflksjdflksdfsdsdflsjfdksdfsdffsdfdsfsdfsdfsssdfdfsdfsdfsdfdfsdfssfdlkjsdf
+  '/items/{itemId}':sdfsdfsfdlsdfksdfsdsdfsdfsdfsdsfdsdfsd
+    parameters:sdfsfsdfsdflksjdf
+      - schema:sdflksdfjlksdfsdfksldfgdfgjdllsdfsdfjslfjsdfsdfsdflsdjfslkdfjsdfsfksdjflskdfflksdfsdf
+          type: integersldkjsldfksdfsdfsdfsdfsdf
+          example: '1657'xvclkjsdfsdfssdfsdfdfsflksdfsdfs
+          default:khkjhkjhkj '1657'
+          maximum: 20000sdfsdfsdfsdflkjsdfsdfsfsdfsdfsdf
+          minimum: 0sfdsdfsdfsdf
+          exclusiveMinimum: falseasdfljkasdf;lkasfd
+        name: itemIdlksdfjslkdfsdfsfd
         in: path
         description: Id of the item to pull details of
         required: true
