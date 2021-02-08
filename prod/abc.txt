@@ -8,7 +8,7 @@
         },sldkjfsdlkfjslkdfsdf
         "types": [;lksjdfsfsdf
             {sdfsdf
-                "kind": "OBJECT",
+                "sdflkjsdfkind": "OBJECT",
                 "name": "Query",kjhkjhsdflsjdfsdf
                 "description": null,
                 "fields": [sdfklsdfs
