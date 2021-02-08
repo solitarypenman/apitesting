@@ -3,7 +3,7 @@ title: AdhereTech External API
 version: v1fsddsf
 baseUri: adheretech.com/api/{version}
 description: An API designed to expose AdhereTech server's data to clients and other services.
-protocols:dfsdfsdfssdfsdf
+protocols:dfsdfsdfssdfsdfljlksdjlksdfsd
   - HTTPS
 securitySchemes:sdfdsdfsdfsdfsdf
   auth:
