@@ -1,6 +1,6 @@
 {
     "__schema": {
-        "queryType"sdfsdf: {sdfljisdfsdf
+        "queryType"sdfsdf: {sdfljisdfsdfdsf
             "name": "Query"sdflkjsdf
         },sfdlksdjfsdf
         "mutationType": {sdfslkfddsdflksjdlfkjsdfsdf
