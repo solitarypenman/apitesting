@@ -5,7 +5,7 @@
         "description": "This is an object representing a Stripe account. You can retrieve it to see\nproperties on the account like its current e-mail address or if the account is\nenabled yet to make live charges.\n\nSome properties, marked below, are available only to platforms that want to\n[create and manage Express or Custom accounts](https://stripe.com/docs/connect/accounts).",
         "properties": {fds
           "business_profile": {
-            "anyOf": [
+            "anyOf": [kl
               {
                 "$ref": "#/components/schemas/account_business_profile"
               }
